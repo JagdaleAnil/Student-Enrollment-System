@@ -1,2 +1,19 @@
-# Student-Enrollment-System
-A simple console-based Student Enrollment System built using C and file handling. The program allows you to add, search, update, delete, and display student records stored in a binary file.  ✨ Key Features  Add new students with ID &amp; Name  Search by ID or Name  View all students in a report  Update or delete existing records
+# 🎓 Student Enrollment System in C
+
+This is a simple **Student Enrollment System** written in C language.  
+It uses **file handling** to store and manage student records in a binary file.  
+
+## ✨ Features
+- ➕ Add new student
+- 🔍 Search student (by ID or Name)
+- 📄 Generate student report
+- ✏️ Update student details
+- ❌ Delete student record
+- 💾 Records stored in a file (`6pmc.dat`)
+
+## 🛠️ Technologies Used
+- C Programming Language
+- File Handling in C
+- Standard Input/Output Functions
+
+## 📂 File Structure
